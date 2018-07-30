@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="slide1">#000000</color>
+    <color name="slide2">#7c4dff</color>
+    <color name="slide3">#64dd17</color>
+    <color name="slide4">#e91e63</color>
+    <color name="slide5">#9c27b0</color>
+
+</resources>

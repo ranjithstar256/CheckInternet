@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Check Internet</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main4">Main4Activity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <!-- -
+        This is an ad unit ID for a banner test ad. Replace with your own banner ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="banner_ad_unit_idl">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ad_unit_id">ca-app-pub-5300816088056407/1259628434</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "750930580884",
+    "firebase_url": "https://surveyapp-3cd34.firebaseio.com",
+    "project_id": "surveyapp-3cd34",
+    "storage_bucket": "surveyapp-3cd34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750930580884:android:a11a1058be7eca93",
+        "android_client_info": {
+          "package_name": "com.androidmanifester.checkinternet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750930580884-58858qki9p80a1pqu5g212tvefp00dma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidmanifester.checkinternet",
+            "certificate_hash": "0c43d69c88920bc3fb4666c28d785f30bcdd3d7e"
+          }
+        },
+        {
+          "client_id": "750930580884-kdpcbj5ht2frsjn5v48r2uvj9ede9sn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbVZSy4JaMmdWw6nbCnCnd1EnfuCwr8pw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750930580884-kdpcbj5ht2frsjn5v48r2uvj9ede9sn6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

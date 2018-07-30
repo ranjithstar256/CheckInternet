@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "331231134694",
+    "firebase_url": "https://checkinternet-6ef1b.firebaseio.com",
+    "project_id": "checkinternet-6ef1b",
+    "storage_bucket": "checkinternet-6ef1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331231134694:android:a11a1058be7eca93",
+        "android_client_info": {
+          "package_name": "com.androidmanifester.checkinternet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331231134694-jtpsp7bda3n2bml7argt2q5jlsuv00la.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidmanifester.checkinternet",
+            "certificate_hash": "02297bc35b444891b70b4bd5d040c535ab6eab00"
+          }
+        },
+        {
+          "client_id": "331231134694-datu9hb8agofrg5cg29r5k93di6dsk60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn6gXC_ilb3uKpyf2ccGLmSodprpg47Hs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331231134694-datu9hb8agofrg5cg29r5k93di6dsk60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
